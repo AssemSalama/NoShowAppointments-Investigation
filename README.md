@@ -31,6 +31,7 @@ And some diseases the patients have like:
 - Handcap
 # Questions
 In my Investigation of this dataset I will try to check and answer all the questions related to the effect of these features on showing up or not.
+# Findings
 - Age doesn't affect No-show as much, but it appears that kids and elders are more likely to show on the appointment.
 - Gender does not have any effect, but I found that more females are going to this appointment than males.
 - etc.
