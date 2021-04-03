@@ -20,10 +20,12 @@ This dataset contains some information about the patients like:
 - Gender
 - Age
 - whether or not the patient is enrolled in Brasilian welfare program "Bolsa Família."
+
 Others about the appointment like:
 - Day of the appointment
 - Day of the registeration for the appointment
 - SMS received, messages sent to the patients
+
 And some diseases the patients have like:
 - Hipertension
 - Diabetes
@@ -31,6 +33,7 @@ And some diseases the patients have like:
 - Handcap
 # Questions
 In my Investigation of this dataset I will try to check and answer all the questions related to the effect of these features on showing up or not.
+
 # Findings
 - Age doesn't affect No-show as much, but it appears that kids and elders are more likely to show on the appointment.
 - Gender does not have any effect, but I found that more females are going to this appointment than males.
